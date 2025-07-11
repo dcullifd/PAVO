@@ -27,6 +27,20 @@ Use the **'Preview Changes'** button to see how the new naming structure will lo
 
 The final step is to rename the files. A success window will pop up once complete.
 
-![Success!](Images/Success.png)
+![Success!](Images/Success.png "Success!")
 
+# Folder Structre Organisation
+Ive added a second tab to the gui to allow folder creation and organisation. Once files are successfully renamed you might want to further group them. The **'File Organisation'** Tab helps with this
 
+![Folder Organisation](Images/FloderOrganisation.png)
+
+Use **'Browse'** to select the folder to organise. 
+
+Checkbox selectable options include:
+**Seperate by date** - you may want to create individual folders for each day
+
+**Seperate by session** - you may have a group of files taken during one time period and another later, which you want to seperate - the time gap is adjustable via the **'Time gap for new session (minutes)''** slider.
+
+**'Seperate photos and videos'** is also an option.
+
+Once organisation options are selected the files can again be analysed, the organisation previewed and applied.
