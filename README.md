@@ -2,8 +2,6 @@
 
 A Python Photo and Video batch renaming and organising tool. Pavo is also Spanish for Turkey!
 
-![Turkey](Images/Turkey.png){.img-responsive width=300px}
-
 <img src="Images/Turkey.png" alt="Turkey" width="300"/>
 
 # Rationale
