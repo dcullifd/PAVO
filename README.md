@@ -2,6 +2,8 @@
 
 A Python Photo and Video batch renaming and organising tool. Pavo is also Spanish for Turkey!
 
+![Turkey](Images/Turkey.png){.img-responsive width=300px}
+
 # Rationale
 I couldn't find a simple tool to quickly rename and organise photo and video files taken on my GoPro and other cameras.
 This tool allows the user to select a directory via a GUI and rename files, adding date and time taken. I intend to add a few other features but it's mainly designed for my own use.
@@ -43,4 +45,4 @@ Checkbox selectable options include:
 
 **'Seperate photos and videos'** is also an option.
 
-Once organisation options are selected the files can again be analysed, the organisation previewed and applied.
+Once organisation options are selected the files can again be analysed, the organisation previewed and applied. This still might need some work so use with caution - no undo button yet!
