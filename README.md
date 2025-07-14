@@ -4,6 +4,7 @@ A Python Photo and Video batch renaming and organising tool. Pavo is also Spanis
 
 ![Turkey](Images/Turkey.png){.img-responsive width=300px}
 
+<img src="Images/Turkey.png" alt="Turkey" width="300"/>
 
 # Rationale
 I couldn't find a simple tool to quickly rename and organise photo and video files taken on my GoPro and other cameras.
